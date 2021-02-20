@@ -131,11 +131,6 @@ class UserNotifyShell extends Shell {
         $body = null;
         $place = null;
         $additional_data = [];
-        
-        
-        
-        
-        
     }
 
 }
